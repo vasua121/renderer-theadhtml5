@@ -1,0 +1,3 @@
+org.xwiki.contrib.threadhtml5.internal.THEADHTML5BlockRenderer
+org.xwiki.contrib.threadhtml5.internal.THEADHTML5Renderer
+org.xwiki.contrib.threadhtml5.internal.THEADHTML5RendererFactory

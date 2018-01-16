@@ -1,0 +1,19 @@
+.#-----------------------------------------------------
+.input|xdom+xml/current
+.#-----------------------------------------------------
+<document metadata="">
+  <table>
+    <tableRow>
+      <tableHeadCell>
+        <word>col1</word>
+      </tableHeadCell>
+      <tableCell>
+        <word>cell11</word>
+      </tableCell>
+    </tableRow>
+  </table>
+</document>
+.#-----------------------------------------------------
+.expect|theadhtml/5.0
+.#-----------------------------------------------------
+<table><tr><th scope="col">col1</th><td>cell11</td></tr></table>

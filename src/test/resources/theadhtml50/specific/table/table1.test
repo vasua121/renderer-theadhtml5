@@ -1,0 +1,16 @@
+.#-----------------------------------------------------
+.input|xdom+xml/current
+.#-----------------------------------------------------
+<document metadata="">
+  <table>
+    <tableRow>
+      <tableCell>
+        <word>cell11</word>
+      </tableCell>
+    </tableRow>
+  </table>
+</document>
+.#-----------------------------------------------------
+.expect|theadhtml/5.0
+.#-----------------------------------------------------
+<table><tr><td>cell11</td></tr></table>
