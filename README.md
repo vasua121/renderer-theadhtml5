@@ -1,6 +1,6 @@
 # THEAD HTML Renderer
 
-Various tools to manipulate LDAP servers in XWiki.
+An HTML5 renderer which automatically adds THEAD element around first TABLE heading lines.
 
 * Project Lead: [Thomas Mortagne](http://www.xwiki.org/xwiki/bin/view/XWiki/ThomasMortagne)
 * [Documentation & Downloads](http://extensions.xwiki.org/xwiki/bin/view/Extension/THEAD+HTML+Renderer/)
@@ -9,6 +9,6 @@ Various tools to manipulate LDAP servers in XWiki.
 * [Development Practices](http://dev.xwiki.org)
 * Minimal XWiki version supported: XWiki 8.4
 * License: LGPL 2.1
-* Translations: http://l10n.xwiki.org/xwiki/bin/view/Contrib/LDAPApplication
+* Translations: N/A
 * Sonar Dashboard: N/A
-* Continuous Integration Status: [![Build Status](http://ci.xwiki.org/job/XWiki%20Contrib/job/ldap/job/master/badge/icon)](http://ci.xwiki.org/job/XWiki%20Contrib/job/renderer-theadhtml5/job/master/)
+* Continuous Integration Status: [![Build Status](http://ci.xwiki.org/job/XWiki%20Contrib/job/renderer-theadhtml5/job/master/badge/icon)](http://ci.xwiki.org/job/XWiki%20Contrib/job/renderer-theadhtml5/job/master/)
