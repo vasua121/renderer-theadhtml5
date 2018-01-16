@@ -28,7 +28,7 @@
     <version>8.4-8</version>
   </parent>
   <artifactId>renderer-theadhtml5</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>THEAD HTML5 renderer</name>
   <description>An HTML5 renderer which automatically adds THEAD element around first TABLE heading lines</description>
   <properties>
@@ -73,6 +73,6 @@
     <connection>scm:git:git://github.com/xwiki-contrib/renderer-theadhtml5.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/renderer-theadhtml5.git</developerConnection>
     <url>https://github.com/xwiki-contrib/renderer-theadhtml5/</url>
-    <tag>HEAD</tag>
+    <tag>renderer-theadhtml5-1.0</tag>
   </scm>
 </project>
